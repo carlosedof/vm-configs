@@ -27,7 +27,7 @@ Please note that this script requires user inputs for various configuration sett
 Please use github issues area.
 
 
-## Melhorias
+## Improvements
 
 Feel free to suggest any improvements.
 
@@ -37,4 +37,4 @@ Check my profile clicking [here](https://cadu.dtdevs.com/)!
 
 ## 🔗 Links
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cadu-olivera-89a632110/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cadu-olivera/)
